@@ -10,7 +10,9 @@ fun readList () : MutableList <Int>{
        list.add (reader.nextInt())
     }
 
-    return list
+ 
+
+sdfgasgds 
 }
 
 fun produsCartezian (list1 : MutableList <Int>, list2 : MutableList <Int>) : MutableList <Pair <Int, Int>>{
